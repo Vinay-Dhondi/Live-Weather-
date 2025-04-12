@@ -2,7 +2,6 @@ A live weather dashboard built with HTML, CSS & JavaScript, fetching real-time d
 
 Features
 ✔️ Current weather (temp, humidity, wind)
-✔️ 5-day forecast
 ✔️ Location-based & city search
 ✔️ Responsive & clean UI
 
