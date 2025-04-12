@@ -6,7 +6,7 @@ Features
 ✔️ Location-based & city search
 ✔️ Responsive & clean UI
 
-Try it out → Live Demo ()
+Try it out → Live Demo (https://vinay-dhondi.github.io/Live-Weather-/)
 Tech Stack: HTML5, CSS3, JavaScript (ES6+)
 API: OpenWeatherMap
 
